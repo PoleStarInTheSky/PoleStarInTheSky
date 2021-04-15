@@ -1,6 +1,6 @@
 ### Hi there,I am Polaris from China.👋
 
-### Now I'm focusing on the front-end web development.🎯
+* 🎯Now focusing on the front-end web development.
 
 <!--
 **PoleStarInTheSky/PoleStarInTheSky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
