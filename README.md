@@ -2,8 +2,9 @@
 
 * 🏫 A student in CSUFT
 * 🎯 Now focusing on the front-end web development
+* 📚 Learning React and Node.js
 * 👄 Speaking in Chinese,English and Japanese
-* 🤝 feel free to contact with me: <polestarinthesky@gmail.com>
+* 🤝 Feel free to contact with me: <polestarinthesky@gmail.com>
 
 <!--
 **PoleStarInTheSky/PoleStarInTheSky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
