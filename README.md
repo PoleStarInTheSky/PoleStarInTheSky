@@ -1,9 +1,9 @@
 ### Hi there,I am Polaris from China.👋
 
 * 🏫 A student in CSUFT
-* 🎯 Now focusing on the front-end web development
-* 📚 Learning React and Node.js
-* 👄 Speaking in Chinese,English and Japanese
+* 🎯 Interested in Web development
+* 📚 Learning C/C++ now
+* 👄 Speaking in Chinese and English 
 * 🤝 Feel free to contact me: <polestarinthesky@gmail.com>
 
 <!--
