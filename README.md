@@ -1,8 +1,6 @@
-### Hi there,I am Polaris from China.👋
+### Hi there,I am Polaris
 
-* 🏫 A student in CSUFT
 * 🎯 Interested in Web development
-* 📚 Learning C/C++ now
 * 👄 Speaking in Chinese and English 
 * 🤝 Feel free to contact me: <polestarinthesky@gmail.com>
 
